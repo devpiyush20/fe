@@ -41,7 +41,7 @@ export const Navbar = ({ hide }: NavbarProps) => {
     >
       <div className="w-full flex justify-between items-center max-w-7xl mx-auto">
         {/* Logo */}
-        <Link
+{/*         <Link
           to="/"
           className="flex items-center gap-2"
           onClick={() => {
@@ -53,7 +53,7 @@ export const Navbar = ({ hide }: NavbarProps) => {
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
             Piyush&nbsp;<span className="sm:block hidden">| Developer</span>
           </p>
-        </Link>
+        </Link> */}
 
         {/* Nav Links (Desktop) */}
         <ul className="list-none hidden sm:flex flex-row gap-10">
