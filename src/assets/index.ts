@@ -48,8 +48,8 @@ import linkedin from "./socials/linkedin.svg";
 import twitter from "./socials/twitter.svg";
 import youtube from "./socials/youtube.svg";
 
-import money from "./projects/cab.png"
-import cab from "./projects/money.png"
+import money from "./projects/money.png"
+import cab from "./projects/cab.png"
 
 export {
   cab,money,
